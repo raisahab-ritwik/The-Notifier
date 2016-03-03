@@ -25,7 +25,7 @@ public class MainActivity extends Activity {
 
 			public void onClick(View arg0) {
 				Notification();
-				// TODO Auto-generated method stub
+				
 			}
 		});
 
